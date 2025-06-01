@@ -24,7 +24,7 @@
 
 ### 🚀 배우고 있는 기술들
 - **프론트엔드 기본:** HTML, CSS, JavaScript, jQuery
-- **프론트엔드 프레임워크:** React, Vue.js (학습 진행 중)
+- **프론트엔드 프레임워크:** React, Node.js (학습 진행 중)
 - **백엔드 언어:** Python
 - **데이터베이스:** MySQL (학습 중)
 - **goolge analytics:**  퍼포먼스 마케팅을 위한 GA 사용
