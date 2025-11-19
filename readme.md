@@ -150,19 +150,6 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/download/452091/python.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/373705/javascript.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/452228/html-5.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/452185/css-3.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/354099/mysql.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/354987/figma.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/448226/notion.svg" width="48" />
-  <img src="https://www.svgrepo.com/download/373589/google-sheets.svg" width="48" />
-</p>
-
-## 🛠 Tech & Tools
-
-<p align="center">
   
   <img src="https://skillicons.dev/icons?i=python" width="50" />
   <img src="https://skillicons.dev/icons?i=javascript" width="50" />
