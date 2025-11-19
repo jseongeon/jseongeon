@@ -158,9 +158,48 @@
   <img src="https://skillicons.dev/icons?i=figma" width="48" />
   <img src="https://skillicons.dev/icons?i=notion" width="48" />
 
-  <!-- Google Sheets -->
-  <img src="https://icons8.kr/icons/set/google-sheets" width="48" />
 </p>
+
+## 🛠 Tech & Tools
+
+<!-- 메인 아이콘 줄 -->
+<p align="center">
+  <!-- Core Tech -->
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+  <img src="https://skillicons.dev/icons?i=notion" width="48" />
+
+  <!-- AI Icons (SimpleIcons) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="40" style="margin-left:10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/anthropic.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlegemini.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googleanalytics.svg" width="40" />
+</p>
+
+<p align="center">
+  <sub><b>AI 활용:</b> GPT · Claude · Gemini · Google Analytics</sub>
+</p>
+
+<br/>
+
+<!-- OA & Communication 테이블 -->
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      📊<br/>
+      <sub><b>OA / Spreadsheets</b><br/>MS Office · Google Spreadsheets</sub>
+    </td>
+
+    <td align="center" width="260">
+      💬<br/>
+      <sub><b>Communication</b><br/>Slack · Notion · Email · 문서 정리</sub>
+    </td>
+  </tr>
+</table>
 
 
 
