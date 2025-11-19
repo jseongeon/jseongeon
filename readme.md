@@ -150,21 +150,6 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" />
-  <img src="https://skillicons.dev/icons?i=notion" width="50" />
-
-  <!-- Google Sheets: 로컬 SVG -->
-  <img src="./google-sheets.svg" width="50" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,figma,notion" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleSheets-Light.svg" width="48" alt="Google Sheets" />
 </p>
