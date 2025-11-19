@@ -5,10 +5,11 @@
 
 <br/>
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%A7%90%ED%95%98%EB%8A%94+%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EC%9E%90;Full-Stack+Planner+%7C+%EC%A0%95%EC%84%B1%EC%96%B8" 
-  alt="Typing animation" 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1300&color=00C2FF&center=true&vCenter=true&width=750&lines=%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D+%7C+PM+%7C+HR+%EA%B8%B0%ED%9A%8D;Data+Analysis;%EC%9D%B8%EC%82%AC%EA%B8%B0%ED%9A%8D+%26+%EC%A1%B0%EC%A7%81%EA%B2%BD%EC%98%81;Full-Stack+Planner+%EC%A0%95%EC%84%B1%EC%96%B8;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B8%B0%EB%B0%98+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0;KPI+%EB%8B%AC%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D"
+  alt="Typing Animation"
 />
+
 
 
 <br/>
