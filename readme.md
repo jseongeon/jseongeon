@@ -152,32 +152,16 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-
-  <!-- Python -->
-  <img src="https://cdn.simpleicons.org/python/F7DF1E/ffffff" width="48" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.simpleicons.org/javascript/000000/ffffff" width="48" />
-
-  <!-- HTML -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26/ffffff" width="48" />
-
-  <!-- CSS -->
-  <img src="https://cdn.simpleicons.org/css3/1572B6/ffffff" width="48" />
-
-  <!-- MySQL -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1/ffffff" width="48" />
-
-  <!-- Figma -->
-  <img src="https://cdn.simpleicons.org/figma/F24E1E/ffffff" width="48" />
-
-  <!-- Notion -->
-  <img src="https://cdn.simpleicons.org/notion/000000/ffffff" width="48" />
-
-  <!-- Google Sheets (added) -->
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853/ffffff" width="48" />
-
+  <img src="https://cdn.simpleicons.org/python"       width="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/javascript"   width="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5"        width="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3"         width="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/mysql"        width="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/figma"        width="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/notion"       width="40" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/googlesheets" width="40" alt="Google Sheets" />
 </p>
+
 
 
 ---
