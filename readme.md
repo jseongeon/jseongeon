@@ -147,81 +147,110 @@
 </details>
 
 ---
+## 🔥 Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img width="80" src="https://github.com/user-attachments/assets/66d9dd71-6ffd-462c-b2b7-dd0e7588d485" /><br/>
+      <sub><b>Strategic<br/>Planning</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img width="80" src="https://github.com/user-attachments/assets/d7943654-e77d-4e06-8bcd-408c963c656c" /><br/>
+      <sub><b>Problem<br/>Solving</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img width="80" src="https://github.com/user-attachments/assets/43e12d3c-458f-4403-a672-0993185f7974" /><br/>
+      <sub><b>Data-Driven<br/>Decision Making</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img width="80" src="https://github.com/user-attachments/assets/b0cc54da-8bde-4898-bd55-1bc93c7044a1" /><br/>
+      <sub><b>HR<br/>Management</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img width="80" src="https://github.com/user-attachments/assets/feb3980a-3d22-41aa-b2e2-2a8accdce2b1" /><br/>
+      <sub><b>Project<br/>Coordination</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 Tech & Tools
 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img width="42" height="42" alt="SQL" src="https://github.com/user-attachments/assets/db840114-5b75-49e8-9644-e91342b64f27" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/db840114-5b75-49e8-9644-e91342b64f27" /><br/>
       <sub><b>SQL</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="MySQL" src="https://github.com/user-attachments/assets/1c1f5be7-3193-4f10-a1ae-8742d3cc85bb" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/1c1f5be7-3193-4f10-a1ae-8742d3cc85bb" /><br/>
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Google Analytics" src="https://github.com/user-attachments/assets/0d22a15c-01d3-4cca-8e58-77185d6b3b5b" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/0d22a15c-01d3-4cca-8e58-77185d6b3b5b" /><br/>
       <sub><b>GA</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Google Spreadsheets" src="https://github.com/user-attachments/assets/8c8d1bb5-b450-4c52-8d51-c6bf686afd83" /><br/>
-      <sub><b>Google Spreadsheets</b></sub>
+      <img width="42" src="https://github.com/user-attachments/assets/8c8d1bb5-b450-4c52-8d51-c6bf686afd83" /><br/>
+      <sub><b>Google Sheets</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img width="42" height="42" alt="HTML" src="https://github.com/user-attachments/assets/9f25a30f-5bf8-4521-a567-9fa448256e1b" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/9f25a30f-5bf8-4521-a567-9fa448256e1b" /><br/>
       <sub><b>HTML</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="CSS" src="https://github.com/user-attachments/assets/f64f6758-bbcb-424e-819a-41011d3bd95c" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/f64f6758-bbcb-424e-819a-41011d3bd95c" /><br/>
       <sub><b>CSS</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="JavaScript" src="https://github.com/user-attachments/assets/a7fe848e-3b17-4c29-8228-a2513afd83eb" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/a7fe848e-3b17-4c29-8228-a2513afd83eb" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Python" src="https://github.com/user-attachments/assets/a26c4591-c527-480b-9ba3-0d1679b46915" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/a26c4591-c527-480b-9ba3-0d1679b46915" /><br/>
       <sub><b>Python</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img width="48" height="48" alt="Notion" src="https://github.com/user-attachments/assets/43d27059-dd13-45e1-adf0-3445ef0a8448" /><br/>
+      <img width="48" src="https://github.com/user-attachments/assets/43d27059-dd13-45e1-adf0-3445ef0a8448" /><br/>
       <sub><b>Notion</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Figma" src="https://github.com/user-attachments/assets/4b600ecd-49b1-408e-ad26-55f1d0c8abda" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/4b600ecd-49b1-408e-ad26-55f1d0c8abda" /><br/>
       <sub><b>Figma</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="GPT" src="https://github.com/user-attachments/assets/1b4ccd65-a421-4330-a67e-6d07fe4e8431" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/1b4ccd65-a421-4330-a67e-6d07fe4e8431" /><br/>
       <sub><b>GPT</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Claude" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" /><br/>
       <sub><b>Claude</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img width="42" height="42" alt="Gemini" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" /><br/>
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="42" height="42" alt="CURSOR" src="https://github.com/user-attachments/assets/0d08825c-ff95-432f-acd0-9c946567c622" /><br/>
+      <img width="42" src="https://github.com/user-attachments/assets/0d08825c-ff95-432f-acd0-9c946567c622" /><br/>
       <sub><b>CURSOR</b></sub>
     </td>
     <td align="center" width="120">
-      <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/b9ebc0c1-d61b-4735-8b13-8fe0f834ff54" />
-      <sub><b>Organization Design & Management</b></sub>
-    </td> 
+      <img width="50" src="https://github.com/user-attachments/assets/b9ebc0c1-d61b-4735-8b13-8fe0f834ff54" /><br/>
+      <sub><b>Organization Mgmt</b></sub>
+    </td>
     <td align="center" width="120">
-      <img width="50" height="120" alt="Image" src="https://github.com/user-attachments/assets/78e1a74b-f896-453d-ac7f-c0ec82344cf4" />
+      <img width="50" src="https://github.com/user-attachments/assets/78e1a74b-f896-453d-ac7f-c0ec82344cf4" /><br/>
       <sub><b>OA</b></sub>
     </td>
   </tr>
