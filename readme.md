@@ -164,41 +164,21 @@
 
 <!-- Core Tech -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  <img src="https://skillicons.dev/icons?i=figma" width="48" />
-  <img src="https://skillicons.dev/icons?i=notion" width="48" />
-
-  <!-- AI Icons -->
-  <img src="https://skillicons.dev/icons?i=openai" width="48" />
-  <img src="https://skillicons.dev/icons?i=claude" width="48" />
-  <img src="https://skillicons.dev/icons?i=gemini" width="48" />
-  <img src="https://skillicons.dev/icons?i=ga" width="48" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/18872277-d17a-4e3b-bc5e-b906c0c2a6e4" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/39ac01dd-1a06-47ac-a5a1-3e112d1f3dca" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/049115a0-e2fc-41ba-8ab8-81993faa5350" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/79a67b2a-d5a6-41b6-8c7d-4b2e691c3e95" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/6d5301ca-a4b0-439f-915f-4d1166cf532d" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/62691158-da30-4ee9-8f20-c0a21ec49996" />
+  <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/808dc960-5537-4bcb-bafa-858d416c00c2" />
+  <img width="24" height="24" alt="Image" src="https://github.com/user-attachments/assets/56c60f43-7431-46c0-94e1-5e9a5a4d914d" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/b4cf7dc8-67bc-4214-a21e-f9317eda8e98" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/278d3abb-325d-4bb5-af78-0f714f625ac3" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/651c66eb-4637-4520-88a4-a54a9f0b7ea4" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/49a8f2a0-05c7-463e-b417-9b30fd9f83b5" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/8d8853a9-7c70-43a9-bbfd-17a321d97b9c" />
 </p>
 
-<!-- AI Text -->
-<p align="center">
-  <sub><b>AI 활용:</b> GPT · Claude · Gemini · Google Analytics</sub>
-</p>
-
-<br/>
-
-<!-- OA & Communication -->
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <span>📊</span> <br/>
-      <sub><b>OA / Spreadsheets</b><br/>MS Office · Google Spreadsheets</sub>
-    </td>
-    <td align="center" width="260">
-      <span>💬</span><br/>
-      <sub><b>Communication</b><br/>Slack · Notion · Email · 문서 정리</sub>
-    </td>
-  </tr>
-</table>
 
 
 
