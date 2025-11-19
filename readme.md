@@ -159,7 +159,7 @@
   <img src="https://skillicons.dev/icons?i=notion" width="48" />
 
   <!-- Google Sheets -->
-  <img src="https://skillicons.dev/icons?i=googlesheets&theme=light" width="48" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/google-sheets.svg" width="48" />
 </p>
 
 
