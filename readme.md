@@ -152,15 +152,33 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Light.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleSheets-Light.svg" width="48" />
+
+  <!-- Python -->
+  <img src="https://cdn.simpleicons.org/python/F7DF1E/ffffff" width="48" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.simpleicons.org/javascript/000000/ffffff" width="48" />
+
+  <!-- HTML -->
+  <img src="https://cdn.simpleicons.org/html5/E34F26/ffffff" width="48" />
+
+  <!-- CSS -->
+  <img src="https://cdn.simpleicons.org/css3/1572B6/ffffff" width="48" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1/ffffff" width="48" />
+
+  <!-- Figma -->
+  <img src="https://cdn.simpleicons.org/figma/F24E1E/ffffff" width="48" />
+
+  <!-- Notion -->
+  <img src="https://cdn.simpleicons.org/notion/000000/ffffff" width="48" />
+
+  <!-- Google Sheets (added) -->
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853/ffffff" width="48" />
+
 </p>
+
 
 ---
 
