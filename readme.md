@@ -247,7 +247,7 @@
     </td>
     <td align="center" width="120">
       <img width="50" src="https://github.com/user-attachments/assets/b9ebc0c1-d61b-4735-8b13-8fe0f834ff54" /><br/>
-      <sub><b>Organization Mgmt</b></sub>
+      <sub><b>Organization Design & Management</b></sub>
     </td>
     <td align="center" width="120">
       <img width="50" src="https://github.com/user-attachments/assets/78e1a74b-f896-453d-ac7f-c0ec82344cf4" /><br/>
