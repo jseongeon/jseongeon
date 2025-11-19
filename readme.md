@@ -6,8 +6,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Strategy+%7C+PM+%7C+HR+%7C+Data;Full-Stack+Planner;From+Insight+to+Execution"
-  alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&lines=데이터로+말하는+전략기획자;Full-Stack+Planner+%7C+정성언"
 />
 
 <br/>
@@ -139,8 +138,8 @@
 
 <br/>
 
-- GA4 + SQL + 스프레드시트 기반 대시보드 설계  
-- 채널별 / 시간대별 / 유입경로별 성과 분석  
+- 스프레드시트 기반 대시보드 설계  
+- 채널별 / 시간대별 / 유입경로별 등 다양한 성과 분석 및 전략 제시  
 - 전략 회의용 월간·분기 리포트 포맷 정의  
 - “숫자를 보면 바로 다음 할 일을 떠올릴 수 있는 구조”를 목표로 설계  
 
@@ -151,14 +150,13 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=notion" />
-  <!-- Google Sheets (custom-aligned icon) -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Light.svg" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleSheets-Light.svg" width="48" />
 </p>
 
