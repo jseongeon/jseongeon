@@ -150,8 +150,16 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,figma,notion" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleSheets-Light.svg" width="48" alt="Google Sheets" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+  <img src="https://skillicons.dev/icons?i=notion" width="48" />
+
+  <!-- Google Sheets -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleSheets-Light.svg" width="48" />
 </p>
 
 
