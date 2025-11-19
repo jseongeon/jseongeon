@@ -173,7 +173,7 @@
   <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/1b4ccd65-a421-4330-a67e-6d07fe4e8431" /> GPT
   <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" /> Claude
   <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" /> Gemini
-  <img width="207" height="148" alt="Image" src="https://github.com/user-attachments/assets/0d08825c-ff95-432f-acd0-9c946567c622" /> CURSOR
+  <img width="48" height="148" alt="Image" src="https://github.com/user-attachments/assets/0d08825c-ff95-432f-acd0-9c946567c622" /> CURSOR
 </p>
 
 ---
