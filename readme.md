@@ -217,6 +217,10 @@
       <sub><b>CURSOR</b></sub>
     </td>
     <td align="center" width="120"></td>
+    <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/b9ebc0c1-d61b-4735-8b13-8fe0f834ff54" />
+    <sub><b>OA</b></sub>
+    <img width="50" height="120" alt="Image" src="https://github.com/user-attachments/assets/78e1a74b-f896-453d-ac7f-c0ec82344cf4" />
+    <sub><b>Organization Design & Management</b></sub>
     <td align="center" width="120"></td>
   </tr>
 </table>
