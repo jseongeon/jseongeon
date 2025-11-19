@@ -151,19 +151,28 @@
 
 <!-- Core Tech -->
 <p align="center">
-  <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/43d27059-dd13-45e1-adf0-3445ef0a8448" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/1b4ccd65-a421-4330-a67e-6d07fe4e8431" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/8c8d1bb5-b450-4c52-8d51-c6bf686afd83" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/0d22a15c-01d3-4cca-8e58-77185d6b3b5b" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/4b600ecd-49b1-408e-ad26-55f1d0c8abda" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/db840114-5b75-49e8-9644-e91342b64f27" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/f64f6758-bbcb-424e-819a-41011d3bd95c" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/9f25a30f-5bf8-4521-a567-9fa448256e1b" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a7fe848e-3b17-4c29-8228-a2513afd83eb" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a26c4591-c527-480b-9ba3-0d1679b46915" />
-  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/1c1f5be7-3193-4f10-a1ae-8742d3cc85bb" />
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/db840114-5b75-49e8-9644-e91342b64f27" /> SQL
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/1c1f5be7-3193-4f10-a1ae-8742d3cc85bb" /> MYSQL
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/0d22a15c-01d3-4cca-8e58-77185d6b3b5b" /> ga
+</p> 
+
+<p align="center">
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/9f25a30f-5bf8-4521-a567-9fa448256e1b" /> HTML
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/f64f6758-bbcb-424e-819a-41011d3bd95c" /> CSS
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a7fe848e-3b17-4c29-8228-a2513afd83eb" /> JS
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a26c4591-c527-480b-9ba3-0d1679b46915" /> 파이썬
+</p>
+
+<p align="center">
+  <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/43d27059-dd13-45e1-adf0-3445ef0a8448" /> 노션
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/8c8d1bb5-b450-4c52-8d51-c6bf686afd83" /> 구글스프레드시트
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/4b600ecd-49b1-408e-ad26-55f1d0c8abda" /> 피그마
+</p>
+
+<p align="center">
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/1b4ccd65-a421-4330-a67e-6d07fe4e8431" /> 지피티
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" /> 클로드
+  <img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" /> 제미나이
 </p>
 
 ---
