@@ -1,128 +1,178 @@
 <div align="center">
 
-# 정성언  
+# 정성언 · Seong-eon Jeong  
 ### Strategic Planner · HR Innovator · Data-Driven PM  
 
 <br/>
 
-#### “Strategy that feels simple. Execution that is precise.”
-
-정량 데이터, 사람, 비즈니스를 한 화면에 정리하는  
-**풀스택 기획자**입니다.
-
-<br/><br/>
+조직과 비즈니스, 그리고 데이터를  
+**한 번에 이해할 수 있는 구조**로 만드는 풀스택 기획자입니다.
 
 </div>
 
 ---
 
-## A new way to connect **Business · People · Data**
+## 📌 Overview
 
-단순한 리포트 작성이 아니라  
-**전략 수립 → 실행 → 피드백 → 개선**까지  
-전 과정을 설계하고 운영합니다.
+> **From Strategy to Product Execution**  
+> 전략 수립 → 실행 → 데이터 분석 → 구조 개선까지  
+> 한 사이클을 스스로 설계하고 실행합니다.
 
-- 비즈니스 KPI 구조를 새로 디자인하고  
-- 조직과 사람의 동기부여 시스템을 설계하며  
-- 데이터를 통해 “왜 이렇게 되었는가”를 설명합니다.
-
----
-
-## Designed for Growth
-
-### 📈 Growth Strategy
-
-- 수임율 **9.8% → 15.7%**, 약 **60% 성장**
-- 매체 전환율 **63% → 86%**, **36.5% 개선**
-- Python·GA4 기반 고객 행동 데이터 분석
-- 가설 수립 → A/B Test → 실행 → 리뷰 사이클 운영
-
-> 숫자로 말할 수 없는 전략은  
-> 전략이 아니라 아이디어일 뿐이라고 생각합니다.
+- 전략기획 · 인사기획(HR) · PM 지향
+- 5년 6개월 군 조직 운영 경험 + 데이터 기반 KPI 설계
+- Python · SQL · GA4를 활용한 정량 분석과 자동화 역량
 
 ---
 
-## Built on Real Leadership
+## 🧩 Profile Cards
 
-### 👥 HR & Organization
+<div align="center">
 
-5년 6개월간 육군 중사로 복무하며
+<table>
+<tr>
+<td width="32%">
 
-- 포대·포반 단위 **인력 운영 및 평가**
-- 교육 훈련 기획 및 교안 작성
-- 리스크 관리와 사고 예방 체계 운영
+### 🎯 Strategy Planning
 
-을 직접 경험했습니다.
+- KPI 구조 설계 및 지표 체계화  
+- 수임율 **9.8% → 15.7%** 성장  
+- 전환율 **63% → 86%** 개선  
+- GA4 + Python 기반 퍼널 분석
 
-- 교관경연대회 **최우수상(1위)**
-- **특급전사 3년 연속**
-- 행정 및 장비 점검 프로세스 통일로 업무 효율 극대화
+</td>
+<td width="32%">
 
-> 사람을 숫자로만 보지 않으면서도  
-> 숫자로 성장을 설명할 수 있는 기획자를 지향합니다.
+### 👥 HR / Organization
 
----
+- 육군 중사 5년 6개월 복무  
+- 인력 운영·평가·교육 기획  
+- 교관경연대회 최우수상 (1위)  
+- 특급전사 3년 연속
 
-## Engineered with Data & Automation
+</td>
+<td width="32%">
 
-### 🧠 Product & PM · Automation
+### 🚀 Product / PM
 
-- AI + Python 기반 **문자 발송 자동화 시스템** 기획·개발  
-  → 수작업 메시지 발송 공수를 크게 절감  
-- 리포트 자동화, 데이터 수집 파이프라인 간소화
-- 내부 서비스 기능 개선 및 웹 리뉴얼 참여
+- AI 문자 자동 발송 시스템 기획·제작  
+- 리포트 자동화 및 업무 프로세스 개선  
+- 웹 리뉴얼 및 기능 개선 참여
 
-**기획서에서 끝나지 않고,  
-직접 도구를 만들어 쓰는 PM**을 지향합니다.
+</td>
+</tr>
+</table>
 
----
-
-## Crafted Skillset
-
-### 🎯 Strategy & Organizational Planning
-
-- KPI 설계 및 성과 관리 체계 구축
-- 조직 단위 목표 설정, 피드백 루프 설계
-- 업무 프로세스 재설계(통합·간소화·자동화 지향)
-
-### 🚀 PM & Tech Literacy
-
-- 요구사항 정의 → IA 설계 → 와이어프레임 → 협업
-- HTML · CSS · JavaScript · SQL 이해 기반의 개발 협업
-- Figma, Notion, Slack을 활용한 협업 & 문서화
-
-### 🔧 Tools & Tech
-
-`Python` · `SQL` · `Excel` · `GA4`  
-`Figma` · `Notion` · `Slack`  
-`HTML` · `CSS` · `JavaScript`
+</div>
 
 ---
 
-## See the whole picture at a glance
+## 🛠 Tech & Tools (Material-style Chips)
 
-- **Business Strategy:** 성장 곡선을 설계합니다.  
-- **HR / Organization:** 그 곡선을 함께 탈 수 있는 팀을 만듭니다.  
-- **Data & Automation:** 실행 과정을 데이터로 기록하고 자동화합니다.
+<div align="center">
 
-> 전략과 실행, 그리고 사람을 한 줄로 연결할 수 있을 때  
-> 비로소 “기획”이 완성된다고 믿습니다.
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  📊 Python
+</span>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  🧮 SQL
+</span>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  📈 GA4
+</span>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  📑 Excel
+</span>
+<br/>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  🎨 Figma
+</span>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  🧱 Notion
+</span>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  💬 Slack
+</span>
+<br/>
+<span style="display:inline-block;margin:4px;padding:6px 12px;border-radius:999px;border:1px solid #e0e0e0;">
+  🌐 HTML · CSS · JavaScript
+</span>
+
+</div>
 
 ---
 
-## Contact
+## 📚 Core Competencies
+
+### 1. Strategy & Data
+
+- 비즈니스 KPI 설계 및 구조화
+- 수임율·전환율 개선 전략 수립
+- 데이터 기반 의사결정 프로세스 설계
+- Python + SQL을 활용한 분석 및 자동화
+
+---
+
+### 2. HR Planning & Organization
+
+- 조직 단위 목표 및 성과 관리 체계 설계
+- 교육 프로그램 기획 및 실행
+- 리스크 관리 및 소통 구조 개선
+- 군 조직에서의 리더십 경험을 민간 조직에 재해석
+
+---
+
+### 3. Product & PM
+
+- 문제 정의 → 요구사항 도출 → 우선순위 설정
+- 이해관계자 조율 및 진행 상황 관리
+- 내부 툴/자동화 시스템 기획·도입
+- 기획–디자인–개발 간 커뮤니케이션 허브 역할
+
+---
+
+## 🧾 Sample Projects (Portfolio Cards)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 AI 문자 자동 발송 시스템
+
+- Python + ADB 기반 자동 메시지 발송
+- 수작업 발송 공수 및 실수율 크게 감소
+- 템플릿 관리 · 로그 관리 구조 설계
+
+</td>
+<td width="50%">
+
+### 📊 KPI & VOC 리포트 시스템
+
+- GA4 + SQL + 스프레드시트 기반 대시보드
+- 채널별/시간대별/유입경로별 성과 분석
+- 전략 회의용 월간·분기 리포트 구조 설계
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
 **정성언 · Seong-eon Jeong**
 
-📧 Email — **tjddjs1507@gmail.com**  
-🎯 Roles — 전략기획 · 인사기획(HR) · PM  
+📧 **Email:** tjddjs1507@gmail.com  
+🎯 **Target Roles:** 전략기획 · 인사기획(HR) · PM  
 
 <br/>
 
-“데이터와 사람, 그리고 비즈니스를  
-한 방향으로 정렬하는 기획자를 찾고 계시다면  
-한 번쯤 대화해 볼 가치가 있을 것입니다.”
+“숫자로 말하고, 사람과 협업하며,  
+실행 가능한 구조를 설계하는 기획자입니다.”
 
 </div>
