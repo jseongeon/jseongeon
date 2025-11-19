@@ -152,15 +152,19 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python"       width="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/javascript"   width="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5"        width="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3"         width="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/mysql"        width="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/figma"        width="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/notion"       width="40" alt="Notion" />
-  <img src="https://cdn.simpleicons.org/googlesheets" width="40" alt="Google Sheets" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=notion" width="50" />
+
+  <!-- Google Sheets (Skillicons-style custom icon) -->
+  <img src="https://raw.githubusercontent.com/yusukebe/assets/main/skill-icons/google-sheets.svg" width="50" />
 </p>
+
 
 
 
