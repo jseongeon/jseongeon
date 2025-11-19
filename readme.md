@@ -149,19 +149,6 @@
 ---
 ## 🛠 Tech & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  <img src="https://skillicons.dev/icons?i=figma" width="48" />
-  <img src="https://skillicons.dev/icons?i=notion" width="48" />
-
-</p>
-
-## 🛠 Tech & Tools
-
 <!-- Core Tech -->
 <p align="center">
   <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/43d27059-dd13-45e1-adf0-3445ef0a8448" />
