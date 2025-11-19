@@ -5,13 +5,17 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/denvercoder1/readme-typing-svg/master/svg/default.svg?color=00C2FF&center=true&vCenter=true&height=45&lines=Strategy+%7C+PM+%7C+HR+%7C+Data;Full-Stack+Planner;From+Insight+to+Execution" alt="Typing SVG">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Strategy+%7C+PM+%7C+HR+%7C+Data;Full-Stack+Planner;From+Insight+to+Execution"
+  alt="Typing animation"
+/>
 
 <br/>
 
 “데이터와 사람, 그리고 비즈니스를 한 줄로 정렬하는 기획자입니다.”
 
 </div>
+
 
 ---
 
@@ -34,7 +38,7 @@
 | 🎯 **Strategy Planning** | KPI 설계, 전환율 개선, 데이터 기반 의사결정 |
 | 👥 **HR / Organization** | 5년 6개월 중사 복무, 팀 운영·평가·교육 기획 |
 | 🚀 **Product / PM** | 자동화 툴/내부 서비스 기획·운영, 요구사항 정의 |
-| 📊 **Data & Automation** | Python·SQL·GA4로 데이터 수집·분석·리포트 자동화 |
+| 📊 **Data & Automation** | Python·SQL·GA4로 데이터 수집·분석·리포트 |
 
 ---
 
@@ -63,7 +67,7 @@
 <br/>
 
 - 육군 **중사**로 5년 6개월 복무  
-- 소대·포반 단위 인력 운영, 평가, 교육 훈련 기획  
+- 포대·포반 단위 인력 운영, 평가, 교육 훈련 기획  
 - **교관경연대회 최우수상(1위)**, **특급전사 3년 연속**  
 - 행정 서류·장비 점검 프로세스 표준화로 업무 효율화  
 
