@@ -159,7 +159,7 @@
   <img src="https://skillicons.dev/icons?i=notion" width="48" />
 
   <!-- Google Sheets -->
-  <img src="[https://i.imgur.com/rAKwaI5.png](https://cdn-icons-png.flaticon.com/512/5968/5968557.png](https://icons8.kr/icon/30461/google-sheets)" width="48" />
+  <img src="https://icons8.kr/icons/set/google-sheets" width="48" />
 </p>
 
 
