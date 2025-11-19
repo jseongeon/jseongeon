@@ -5,9 +5,11 @@
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&lines=데이터로+말하는+전략기획자;Full-Stack+Planner+%7C+정성언"
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=23&pause=1500&color=00C2FF&center=true&vCenter=true&width=650&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EB%A7%90%ED%95%98%EB%8A%94+%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EC%9E%90;Full-Stack+Planner+%7C+%EC%A0%95%EC%84%B1%EC%96%B8" 
+  alt="Typing animation" 
 />
+
 
 <br/>
 
