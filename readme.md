@@ -233,14 +233,14 @@
     </td>
     <td align="center" width="140">
       <img width="50" src="https://github.com/user-attachments/assets/a601df5c-2730-4706-8ff8-68b3b8e2892c" /><br/>
-      <sub><b>Claude</b></sub>
+      <sub><b>Gemini</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="140">
       <img width="50" src="https://github.com/user-attachments/assets/19ea2a49-f174-4b76-99a8-6e5ba28941dc" /><br/>
-      <sub><b>Gemini</b></sub>
+      <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="140">
       <img width="50" src="https://github.com/user-attachments/assets/0d08825c-ff95-432f-acd0-9c946567c622" /><br/>
