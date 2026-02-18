@@ -266,7 +266,7 @@
 **정성언 · Seong-eon Jeong**
 
 📧 **Email:** <b>tjddjs1507@gmail.com</b>  
-🎯 **Target Roles:** 전략기획 · 인사기획(HR) · PM  
+🎯 **Target Roles:** CEO staff · 전략기획 · 인사기획(HR) · PM  
 
 <br/>
 
